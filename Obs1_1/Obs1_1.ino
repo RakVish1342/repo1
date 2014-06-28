@@ -1,7 +1,8 @@
 /* mototrL1,motorL2 and motorR1,motorR2
  *sonicLtrig,sonicLecho and sonicFtrig,sonicFecho and sonicRtrig,sonicRecho
  */
- 
+ // Test by AP
+ //
 #define sonicLtrig 2
 #define sonicLecho 3
 #define sonicFtrig 4
